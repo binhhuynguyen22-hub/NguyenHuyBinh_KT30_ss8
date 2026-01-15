@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f1f5f9;
+    font-family: Arial, sans-serif;
+}
+
+.heading {
+    background-color: #0ea5e9;
+    color: #fff;
+    text-align: center;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    height: 158px;
+    padding: 30px;
+}
+.title {
+margin-bottom: 15px;
+
+}
+.decreption {
+
+}
+.menu {
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: #e0f2fe;
+    text-align: center;
+    border: 1px solid #e0f2fe;
+    border-radius: 16px;
+    color: #0369a1;
+    font-weight: bold;
+    padding: 20px;
+    width: 1886px;
+    height: 37px;
+}
+a{
+    text-decoration-line: none;
+    margin: 0 10px;
+}
+.tag{
+    
+}
+a:hover{
+    background-color: #0284c7;
+    border: 1px solid #0284c7;
+    color: #fff;
+}
+.main {
+    margin-left: 15px;
+    margin-top: 30px;
+    background-color: #ffffff;
+    width: 1886px;
+    border-radius: 16px;
+    height: 137px;
+}
+.part1{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.commit {
+    margin-top: 49px;
+    margin-left: 15px;
+    background-color: #ecfeff;
+    border: 1px solid #ecfeff;
+    border-radius: 16px;
+    width: 1886px;
+    height: 217px;
+
+    text-align: left;
+    margin: 15px;
+    padding: 20px;
+}
+.footer {
+    margin-top: 167px;
+    background-color: #0f172a;
+    color: #fff;
+    text-align: center;
+    height: 171px;
+     border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.dec{
+    margin-top: 20px;
+    margin: 10px;
+    padding: 20px;
+}
