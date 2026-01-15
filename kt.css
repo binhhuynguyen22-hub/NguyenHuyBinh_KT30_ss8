@@ -35,20 +35,28 @@ margin-bottom: 15px;
     font-weight: bold;
     padding: 20px;
     width: 1886px;
-    height: 37px;
+    height: 45px;
+    padding: 10px;
 }
 a{
     text-decoration-line: none;
     margin: 0 10px;
 }
-.tag{
-    
-}
-a:hover{
+menu:hover{
     background-color: #0284c7;
     border: 1px solid #0284c7;
     color: #fff;
+    border-radius: 16px;
+    padding: 15px;
 }
+a:hover{
+    border: 1px solid #0284c7;
+    color: #fff;
+    border-radius: 16px;
+    padding: 10px;
+    background-color: #0284c7;
+}
+
 .main {
     margin-left: 15px;
     margin-top: 30px;
@@ -58,6 +66,12 @@ a:hover{
     height: 137px;
 }
 .part1{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+.part2{
     margin-left: 15px;
     margin-top: 20px;
     margin-bottom: 30px;
@@ -74,6 +88,7 @@ a:hover{
     text-align: left;
     margin: 15px;
     padding: 20px;
+    border-left: 3px solid #0ea5e9 ;
 }
 .footer {
     margin-top: 167px;
